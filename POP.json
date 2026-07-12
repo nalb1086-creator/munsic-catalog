@@ -58,5 +58,15 @@
     "genre": "POP",
     "coverUrl": "https://archive.org/download/musica-parrandera-campesina-franktony/Musica%20Parrandera%20Campesina%20FRANKTONY.jpg",
     "audioUrl": "https://archive.org/download/musica-parrandera-campesina-franktony/TU%20AMOR%20NO%20HA%20MUERTO%20-%20FRANKTONY%20-%20Ranchera%20%28Vicente%20Reyes%29.mp3"
+  },
+  {
+    "id": "POP000007",
+    "title": "Amor Gitano",
+    "artist": "Alci Acosta",
+    "album": "Alci Acosta Los 30 Mejores",
+    "durationSeconds": 164,
+    "genre": "POP",
+    "coverUrl": "https://archive.org/download/boleros-alci-acosta/Boleros%20ALCI%20ACOSTA.jpg",
+    "audioUrl": "https://archive.org/download/boleros-alci-acosta/AMOR%20GITANO%20-%20ALCI%20ACOSTA%20%28Hector%20Flores%20Osuna%29.mp3"
   }
 ]
