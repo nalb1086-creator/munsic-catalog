@@ -1,0 +1,32 @@
+[
+  {
+    "id": "POP000001",
+    "title": "Amor Manchado",
+    "artist": "Rodolfo Aicardi",
+    "album": "Boleros",
+    "durationSeconds": 160,
+    "genre": "POP",
+    "coverUrl": "https://archive.org/download/boleros-rodolfo-aicardi/Boleros%20Rodolfo%20Aicardi.jpg",
+    "audioUrl": "https://archive.org/download/boleros-rodolfo-aicardi/AMOR%20MANCHADO%20-%20RODOLFO%20AICARDI%20-%20Bolero%20%28Victor%20Estevez%29%201978.mp3"
+  },
+  {
+    "id": "POP000002",
+    "title": "Aguanta Corazón",
+    "artist": "Luis Alberto Posada",
+    "album": "Musica Parrandera Campesina",
+    "durationSeconds": 177,
+    "genre": "POP",
+    "coverUrl": "https://archive.org/download/musica-parrandera-campesina-luis-alberto-posada/Musica%20Parrandera%20Campesina%20LUIS%20ALBERTO%20POSADA.jpg",
+    "audioUrl": "https://archive.org/download/musica-parrandera-campesina-luis-alberto-posada/AGUANTA%20CORAZON%20-%20LUIS%20ALBERTO%20POSADA%20-%20Vals%20Ranchero%20%28Gabriel%20Echeverry%29%201989.mp3"
+  },
+  {
+    "id": "POP000003",
+    "title": "Con Un Adiós",
+    "artist": "El Charrito Negro",
+    "album": "Musica Parrandera Campesina",
+    "durationSeconds": 207,
+    "genre": "POP",
+    "coverUrl": "https://archive.org/download/musica-parrandera-campesina-el-charrito-negro/Musica%20Parrandera%20Campesina%20El%20CHARRITO%20NEGRO.jpg",
+    "audioUrl": "https://archive.org/download/musica-parrandera-campesina-el-charrito-negro/CON%20UN%20ADIOS%20-%20EL%20CHARRITO%20NEGRO%20-%20Ranchera%20%28Oswaldo%20Franco%29%201996.mp3"
+  }
+]
