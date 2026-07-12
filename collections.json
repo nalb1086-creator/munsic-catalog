@@ -1,0 +1,42 @@
+[
+  {
+    "id": "POP",
+    "title": "Popular"
+  },
+  {
+    "id": "ROM",
+    "title": "Romántica"
+  },
+  {
+    "id": "TRO",
+    "title": "Tropical / Bailable"
+  },
+  {
+    "id": "RYP",
+    "title": "Rock & Pop"
+  },
+  {
+    "id": "ANG",
+    "title": "Anglo"
+  },
+  {
+    "id": "SAL",
+    "title": "Salsa"
+  },
+  {
+    "id": "VAL",
+    "title": "Vallenato"
+  },
+  {
+    "id": "REL",
+    "title": "Religiosa"
+  },
+  {
+    "id": "ELE",
+    "title": "Electrónica"
+  },
+  {
+    "id": "URB",
+    "title": "Urbana"
+  }
+]
