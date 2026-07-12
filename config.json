@@ -2,16 +2,19 @@
   "catalogVersion": 1,
   "catalogBaseUrl": "https://raw.githubusercontent.com/nalb1086-creator/munsic-catalog/main/",
   "files": {
-    "collections.json": 1,
+    "collections.json": 2,
+
     "POP.json": 1,
     "ROM.json": 1,
     "TRO.json": 1,
-    "RYP.json": 1,
-    "ANG.json": 1,
+    "MER.json": 1,
     "SAL.json": 1,
     "VAL.json": 1,
-    "REL.json": 1,
+    "RYP.json": 1,
+    "ANG.json": 1,
     "ELE.json": 1,
-    "URB.json": 1
+    "URB.json": 1,
+    "REL.json": 1,
+    "POD.json": 1
   }
 }
