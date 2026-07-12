@@ -1,42 +1,62 @@
 [
   {
     "id": "POP",
-    "title": "Popular"
+    "name": "Popular",
+    "description": "Despecho, cantina y canciones que se cantan con el alma, para acompañar cada historia y cada recuerdo."
   },
   {
     "id": "ROM",
-    "title": "Romántica"
+    "name": "Romántica",
+    "description": "Historias de amor hechas canción, con melodías que han enamorado a varias generaciones."
   },
   {
     "id": "TRO",
-    "title": "Tropical / Bailable"
+    "name": "Tropical",
+    "description": "Cumbia, tecnocumbia, paseaditos, porros y muchos ritmos bailables de ayer, de hoy y de siempre."
   },
   {
-    "id": "RYP",
-    "title": "Rock & Pop"
-  },
-  {
-    "id": "ANG",
-    "title": "Anglo"
+    "id": "MER",
+    "name": "Merengue",
+    "description": "El ritmo alegre del Caribe con clásicos y éxitos de ayer y de hoy para disfrutar sin dejar de bailar."
   },
   {
     "id": "SAL",
-    "title": "Salsa"
+    "name": "Salsa",
+    "description": "El sabor latino que pone a bailar desde la primera nota y llena de vida cualquier momento."
   },
   {
     "id": "VAL",
-    "title": "Vallenato"
+    "name": "Vallenato",
+    "description": "Caja, acordeón y guacharaca para contar historias llenas de alegría, nostalgia y mucho sentimiento."
   },
   {
-    "id": "REL",
-    "title": "Religiosa"
+    "id": "RYP",
+    "name": "Rock & Pop",
+    "description": "Canciones que marcaron generaciones y siguen sonando con la misma fuerza de siempre."
+  },
+  {
+    "id": "ANG",
+    "name": "Anglo",
+    "description": "Los grandes éxitos internacionales que han acompañado generaciones y siguen conquistando al mundo."
   },
   {
     "id": "ELE",
-    "title": "Electrónica"
+    "name": "Electrónica",
+    "description": "Beats, sintetizadores y mucha energía para disfrutar cada ritmo y dejar que la música hable por sí sola."
   },
   {
     "id": "URB",
-    "title": "Urbana"
+    "name": "Urbana",
+    "description": "Ritmos urbanos que marcan tendencia y acompañan a nuevas generaciones con toda su energía."
+  },
+  {
+    "id": "REL",
+    "name": "Religiosa",
+    "description": "Canciones que inspiran fe, esperanza y paz para acompañar cada momento de la vida."
+  },
+  {
+    "id": "POD",
+    "name": "Podcasts",
+    "description": "Conversaciones, historias, entrevistas y contenido para aprender, entretenerse y descubrir nuevas ideas."
   }
 ]
