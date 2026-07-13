@@ -4,62 +4,69 @@
     "title": "Amor Manchado",
     "artist": "Rodolfo Aicardi",
     "album": "Boleros",
+    "durationSeconds": 160,
+    "genre": "POP",
     "coverUrl": "https://archive.org/download/boleros-rodolfo-aicardi/Boleros%20Rodolfo%20Aicardi.jpg",
     "audioUrl": "https://archive.org/download/boleros-rodolfo-aicardi/AMOR%20MANCHADO%20-%20RODOLFO%20AICARDI%20-%20Bolero%20%28Victor%20Estevez%29%201978.mp3"
-    "duration": 160
   },
   {
     "id": "POP000002",
     "title": "Aguanta Corazón",
     "artist": "Luis Alberto Posada",
     "album": "Musica Parrandera Campesina",
+    "durationSeconds": 177,
+    "genre": "POP",
     "coverUrl": "https://archive.org/download/musica-parrandera-campesina-luis-alberto-posada/Musica%20Parrandera%20Campesina%20LUIS%20ALBERTO%20POSADA.jpg",
     "audioUrl": "https://archive.org/download/musica-parrandera-campesina-luis-alberto-posada/AGUANTA%20CORAZON%20-%20LUIS%20ALBERTO%20POSADA%20-%20Vals%20Ranchero%20%28Gabriel%20Echeverry%29%201989.mp3"
-    "duration": 177
   },
   {
     "id": "POP000003",
     "title": "Con Un Adiós",
     "artist": "El Charrito Negro",
     "album": "Musica Parrandera Campesina",
+    "durationSeconds": 207,
+    "genre": "POP",
     "coverUrl": "https://archive.org/download/musica-parrandera-campesina-el-charrito-negro/Musica%20Parrandera%20Campesina%20El%20CHARRITO%20NEGRO.jpg",
     "audioUrl": "https://archive.org/download/musica-parrandera-campesina-el-charrito-negro/CON%20UN%20ADIOS%20-%20EL%20CHARRITO%20NEGRO%20-%20Ranchera%20%28Oswaldo%20Franco%29%201996.mp3"
-    "duration": 207
   },
   {
     "id": "POP000004",
     "title": "El Tren Del Olvido",
     "artist": "Rodolfo Aicardi",
     "album": "Boleros",
+    "durationSeconds": 155,
+    "genre": "POP",
     "coverUrl": "https://archive.org/download/boleros-rodolfo-aicardi/Boleros%20Rodolfo%20Aicardi.jpg",
     "audioUrl": "https://archive.org/download/boleros-rodolfo-aicardi/EL%20TREN%20DEL%20OLVIDO%20-%20RODOLFO%20AICARDI%20-%20Zamba%20%28Pedronel%20Isaza%29%201982.mp3"
-    "duration": 155
   },
   {
     "id": "POP000005",
     "title": "Raticos De Amor",
     "artist": "Francy",
     "album": "En Cuerpo Y Alma",
+    "durationSeconds": 189,
+    "genre": "POP",
     "coverUrl": "https://archive.org/download/musica-parrandera-campesina-francy/Musica%20Parrandera%20Campesina%20Francy.jpg",
     "audioUrl": "https://archive.org/download/musica-parrandera-campesina-francy/RATICOS%20DE%20AMOR%20-%20FRANCY%20-%20Bolero%20%28Bayardo%20De%20La%20Vega%29.mp3"
-    "duration": 189
   },
   {
     "id": "POP000006",
     "title": "Tu Amor No Ha Muerto",
     "artist": "Franktony",
     "album": "Franktony Grandes Exitos",
+    "durationSeconds": 208,
+    "genre": "POP",
     "coverUrl": "https://archive.org/download/musica-parrandera-campesina-franktony/Musica%20Parrandera%20Campesina%20FRANKTONY.jpg",
     "audioUrl": "https://archive.org/download/musica-parrandera-campesina-franktony/TU%20AMOR%20NO%20HA%20MUERTO%20-%20FRANKTONY%20-%20Ranchera%20%28Vicente%20Reyes%29.mp3"
-    "duration": 208
   },
   {
     "id": "POP000007",
     "title": "Amor Gitano",
     "artist": "Alci Acosta",
     "album": "Alci Acosta Los 30 Mejores",
+    "durationSeconds": 164,
+    "genre": "POP",
     "coverUrl": "https://archive.org/download/boleros-alci-acosta/Boleros%20ALCI%20ACOSTA.jpg",
     "audioUrl": "https://archive.org/download/boleros-alci-acosta/AMOR%20GITANO%20-%20ALCI%20ACOSTA%20%28Hector%20Flores%20Osuna%29.mp3"
-    "duration": 164
   }
 ]
